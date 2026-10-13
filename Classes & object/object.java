@@ -20,7 +20,7 @@ public class car{
         return speed;
     }
 }
-public object class{
+public main class Main {
 
     public static void main(String[] args){
         car car1 = new car("BMW","X5","200km/h");
@@ -28,5 +28,5 @@ public object class{
         System.out.println(car1.getBrand()+" "+car1.getModel()+" "+car1.getSpeed());
         System.out.println(car2.getBrand()+" "+car2.getModel()+" "+car2.getSpeed());
     }
-    
+
 }
