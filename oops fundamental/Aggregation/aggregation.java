@@ -43,3 +43,4 @@ public class Main {
         // but p1 and p2 still exist and can be used elsewhere.
     }
 }
+//so aggregation works on a "has-a" relationship where the lifetime of the contained objects (Professor) is independent of the container object (Department).
